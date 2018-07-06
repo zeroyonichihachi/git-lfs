@@ -30,7 +30,9 @@ setup and preferences.
 * **macOS users**. [Homebrew](https://brew.sh) bottles are distributed, and can
   be installed via `brew install git-lfs`.
 * **Windows users**. Chocolatey packages are distributed, and can be installed
-  via `choco install git-lfs`.
+  via `choco install git-lfs`.  
+  Please note: [Git for Windows](https://gitforwindows.org/) ships Git LFS by 
+  default and therefore you usually do not need to install it separately.
 
 In addition, [binary packages](https://github.com/git-lfs/git-lfs/releases) are
 available for Linux, macOS, Windows, and FreeBSD. This repository can also be
